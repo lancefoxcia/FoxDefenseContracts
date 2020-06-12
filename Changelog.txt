@@ -1,0 +1,13 @@
+Update 1.1 American Frontier
+- New sounds
+- New Ammo
+- 7 new tank turrets (HSTV-LT, M4 Sherman, M42 Duster, M103, T34, M4A3 Sherman 105, M24 Chaffee) 
+- Fixed up Bullet defs for a few tanks
+- LEGACY Ammobox for fdc is still in until next release.
+
+*Official 1.0 Release*
+- Modern turrets added (M1A2 Abrams, T-64, BMP3, Bradly)
+- Reduced amount of CFG files, and reduced their sizes
+- All turrets have descriptions
+- Ammo Boxes have been changed
+-- Legacy Ammo box is still there and will be removed in next update!
