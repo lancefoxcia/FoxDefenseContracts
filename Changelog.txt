@@ -1,3 +1,13 @@
+Update 1.2 Germans Strike Back
+- Updated to new verions of BDAc Runway Project 1.4 and Above
+- Less configs, Less turrets in menu.
+- WARNING turrets name have changed so most will not load with old names. Open .craft files and edit the turret names to match new names.
+- 7 new tank turrets (DickerMax, Wirbelwind, SdKfz5cm, Ru251, Panzer2C, Leopard2A5, Leopard1) 
+- Redesign Flak88
+- Removed Pak 36/40
+- Bullet def changes
+- LEGACY Ammobox Removed
+
 Update 1.1 American Frontier
 - New sounds
 - New Ammo
