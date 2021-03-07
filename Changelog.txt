@@ -1,3 +1,10 @@
+Update 1.3 Stalins Stalinium Rush B Program
+- Added 7 new turrets (IS-7, Obj 268, Obj 906, T-90, Zis-12, ZSU37mm)
+- Pentile Machine guns are now functional
+- Wirbelwind got a new gun configuration change, same with 3" 50 caliber gun.
+- Quality of life changes.
+- Bullet def changes. New bullets, and balances.
+
 Update 1.2 Germans Strike Back
 - Updated to new verions of BDAc Runway Project 1.4 and Above
 - Less configs, Less turrets in menu.
