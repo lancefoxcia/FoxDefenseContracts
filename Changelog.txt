@@ -1,3 +1,10 @@
+Update 1.4 Sweedens Uprising
+- Added 9 new turrets (Elden40, Luft42, Luft9040c, Pvkv43, Spjfm43, Strids42Delat, Strids74, Strids101, Stridsvagn122B)
+- Ammo box fixes with missing ammo
+- Check the Github page for x256 textures for reduction
+- Quality of life changes. Such as Placing bullet definitions in respective nations.
+- Bullet def changes.
+
 Update 1.3 Stalins Stalinium Rush B Program
 - Added 7 new turrets (IS-7, Obj 268, Obj 906, T-90, Zis-12, ZSU37mm)
 - Pentile Machine guns are now functional
