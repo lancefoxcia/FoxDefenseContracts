@@ -1,0 +1,12 @@
+Ranges
+
+Normal = 8000
+AA = 13500
+Arty = 99999
+
+Deviation
+
+WWI = 0.070 - 0.065
+WWII = 0.064 - 0.055
+Cold War = 0.054 - 0.035
+Modern = 0.034 - 0.021
