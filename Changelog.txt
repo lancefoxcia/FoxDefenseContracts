@@ -1,9 +1,28 @@
-Update 1.4 Sweedens Uprising
-- Added 9 new turrets (Elden40, Luft42, Luft9040c, Pvkv43, Spjfm43, Strids42Delat, Strids74, Strids101, Stridsvagn122B)
+Update 2.0 Military Expansion
+- Added 38 new turrets
+- America (M109A6, M163)
+- Britian (Challenger 2, Chieftain Mk10, Comet-1, Conqueror MK2, Crusader AA MK2, Falcon, Marksmen, Rooikat ZA-35)
+- China (PGZ09, PTZ89, WMA301, ZLT11, ZSD63, ZTZ99_Stage_III)
+- France (AMX13-105, AMX13-FM, Amx-30 DCA, AMX-40, E.B.R, Leclerc)
+- Italy (Ariete, M14/41, Centauro 120, L3/33 CC, AB 41, 47/32 L40, M42 Contraereo, R3 T20, OTOMATIC)
+- Japan (Type 10, Type 90, Type 16, Type 74 (E), Type 87 RCV,Type 87 AA)
+- Sweeden (Bkan 1C)
+- E.R.A is back and functional
+- Bullet Def changes (Plus if you're using the older version of BDAC Runway such as Version: v1.4.6.2 then you'll have that versions Bullet Definitions as well in the github page) 
+- Redone Ammo Box Texture
+- Added MMPatch for BDAc Armor parts to use FDC armor textures.
+- Added AGM-119 Penguin Missle (+ 1 hidden fun missle)
+- Lots of balance changes to turret rotation speed, fire rate and other misc stuff
+- Removed Sounds (Ready to fire, reloading sounds)
+
+
+Update 1.4 Swedens Uprising Latest
+- Added 9 new turrets (Elden40, Luft42, Luft9040c, Pvkv43, Spjfm43, - Strids42Delat, Strids74, Strids101, Stridsvagn122B)
 - Ammo box fixes with missing ammo
-- Check the Github page for x256 textures for reduction
+- Check the Github page for x256 textures for performance.
 - Quality of life changes. Such as Placing bullet definitions in respective nations.
 - Bullet def changes.
+
 
 Update 1.3 Stalins Stalinium Rush B Program
 - Added 7 new turrets (IS-7, Obj 268, Obj 906, T-90, Zis-12, ZSU37mm)

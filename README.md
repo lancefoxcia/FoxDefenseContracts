@@ -1,9 +1,9 @@
 # FoxDefenseContracts
 
-Fox Defense Contracts is both in itself a mod and an Expansion of BDArmory Continued. The main goal is to add in much more tank turrets for both the ksp war communities and the creative community.
+Fox Defense Contracts is both in itself a mod and an Expansion of BDArmory Continued Runway Project. The mod at its current state is packed with many turrets from many nations. It in itself also has some armor panels that can help make more detailed tanks. 
 
-This WIP is soon to have a full official release with a lot of changes coming soon. Mainly QOL and other changes that will bring a bit of freshness to the mod. (I think.) 
+If there's any suggestions. Best to use the feature requests tab in github here and I'll check it sometime. 
 
-I would love to hear suggestions about what to add in and what to change.
+Current update is 2.0 - Military Expansion
 
 
