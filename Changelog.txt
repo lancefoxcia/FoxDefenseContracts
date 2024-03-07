@@ -1,3 +1,10 @@
+Update 2.1 Add Duct Tape
+- Updated to work with BDAc Plus
+- Added Bombs (100, 250, 500, 1000, 2000, 5000 - Lbs) 
+- Bullet Def Changes
+- More Turret changes (Deviation, Reload, Turret Speed, etc
+- Fixed Luft40c tilt angle to 0 degree instead of -9.2 degree
+
 Update 2.0 Military Expansion
 - Added 38 new turrets
 - America (M109A6, M163)
