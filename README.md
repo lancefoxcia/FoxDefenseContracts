@@ -4,6 +4,6 @@ Fox Defense Contracts is both in itself a mod and an Expansion of BDArmory Cont
 
 If there's any suggestions. Best to use the feature requests tab in github here and I'll check it sometime. 
 
-Current update is 2.0 - Military Expansion
+Current update is 2.2 - Legacy Hardware Updates
 
 
