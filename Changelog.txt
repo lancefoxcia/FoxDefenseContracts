@@ -1,3 +1,10 @@
+Update 2.2.1 Wrenches, Hammers, and Swaps
+- Added Hot Swappable Ammo (Works in flight)
+- Balanced Guns (Again) / MaxDeviation Debuffs
+- Russian 37mm AA Fix
+- Added BD_Armor_ISO texture patch
+
+
 Update 2.2 Legacy Hardware Updates
 - Bullet Def Changes once again (Fixed Shaped Charges)
 - new bump map and specular map for the Armor, you can change this within the MM Patch of FDC Armor. just comment out the one you don't want with //
